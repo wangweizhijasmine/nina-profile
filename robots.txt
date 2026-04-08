@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nina-profile.vercel.app/sitemap.xml
